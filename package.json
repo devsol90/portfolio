@@ -37,7 +37,7 @@
   },
   "dependencies": {
     "@babel/polyfill": "^7.8.3",
-    "axios": "^0.19.2",
+    "axios": "^0.21.1",
     "axios-hook": "0.0.5",
     "body-parser": "^1.19.0",
     "browser-sync": "^2.26.7",
